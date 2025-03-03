@@ -1,8 +1,14 @@
 {
   "patches": [
     {
-      "files": [ "test.txt" ],
+      "files": [ "Sample+2.png" ],
       "folder": "game/",
+      "version": 0.1,
+      "save_as": "Sample+2.png"
+    },
+    {
+      "files": [ "test.txt" ],
+      "folder": "game/your_game/Content/Paks/",
       "version": 0.1,
       "save_as": "test.txt"
     }
